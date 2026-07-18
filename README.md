@@ -20,7 +20,7 @@ A lightweight weather application built with Python that fetches real-time weath
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/Sarfarazsayyad2415/weather-app.git
 cd weather-app
 pip install requests
 python weather.py
