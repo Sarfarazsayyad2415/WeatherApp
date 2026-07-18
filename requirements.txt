@@ -1,0 +1,4 @@
+# Dependencies for the Python weather app in Projects/weatherapp.py
+# Install with: pip install -r requirements.txt
+
+requests>=2.31.0,<3.0.0
